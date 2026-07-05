@@ -1,7 +1,5 @@
 <div align="center">
 
-# Bruno Kontrec
-
 ### Senior Full Stack Software Engineer
 
 Building reliable software with a focus on maintainability, thoughtful architecture, and long-term product quality.
