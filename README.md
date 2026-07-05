@@ -72,14 +72,8 @@ Personal projects focused on integrating modern AI tools into real software deve
 
 ---
 
-# Outside of Work
-
-When I'm not programming, you'll usually find me learning something new, reading about software architecture, experimenting with graphics programming, or designing new project ideas that push me outside my comfort zone.
-
----
-
 <div align="center">
 
-> *"Software should become easier to understand as it grows, not harder."*
+> *"Growth lives outside your comfort zone. Always be tinkering."*
 
 </div>
