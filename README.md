@@ -1,16 +1,96 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Onurb7/Onurb7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bruno Kontrec
 
-Here are some ideas to get you started:
+### Senior Full Stack Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building reliable software with a focus on maintainability, thoughtful architecture, and long-term product quality.
+
+<br>
+
+<p>
+  <a href="https://netrock.hr">
+    <img src="https://img.shields.io/badge/Website-013429?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/bkontrec">
+    <img src="https://img.shields.io/badge/LinkedIn-013429?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+# About
+
+I'm a full-stack software engineer with over **8 years of professional experience** designing and developing web applications, APIs, internal business systems, and production software.
+
+Most of my experience comes from building software that businesses rely on every day—systems that need to remain stable, understandable, and maintainable as they evolve.
+
+Outside of client work, I enjoy building side projects to explore new technologies, particularly **AI**, **Three.js**, and modern frontend architecture.
+
+---
+
+# Engineering Philosophy
+
+I believe good software is built around a few simple principles:
+
+- Build for maintainability before cleverness.
+- Performance is a feature.
+- Keep systems understandable.
+- Solve real problems before adding features.
+- Learn continuously by building.
+
+---
+
+# Current Focus
+
+- 🌐 Building the NetRock engineering website
+- 🤖 Exploring practical AI applications in software development
+- 🎨 Creating interactive experiences with Three.js
+- ⚛️ Deepening expertise in the React & TypeScript ecosystem
+
+---
+
+# Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,ts,react,vue,nextjs,nodejs,docker,aws,mysql,postgres,git,github,vscode" />
+
+</p>
+
+---
+
+# Featured Work
+
+### 🌐 NetRock
+
+A premium engineering studio website focused on clean design, thoughtful interaction, and modern frontend development.
+
+---
+
+### 🎨 Interactive Three.js Experiments
+
+Interactive web experiences exploring lighting, animation, and immersive user interfaces.
+
+---
+
+### 🤖 AI Projects
+
+Personal projects focused on integrating modern AI tools into real software development workflows.
+
+---
+
+# Outside of Work
+
+When I'm not programming, you'll usually find me learning something new, reading about software architecture, experimenting with graphics programming, or designing new project ideas that push me outside my comfort zone.
+
+---
+
+<div align="center">
+
+> *"Software should become easier to understand as it grows, not harder."*
+
+</div>
