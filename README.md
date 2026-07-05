@@ -42,15 +42,6 @@ I believe good software is built around a few simple principles:
 
 ---
 
-# Current Focus
-
-- 🌐 Building the NetRock engineering website
-- 🤖 Exploring practical AI applications in software development
-- 🎨 Creating interactive experiences with Three.js
-- ⚛️ Deepening expertise in the React & TypeScript ecosystem
-
----
-
 # Technologies
 
 <p align="center">
