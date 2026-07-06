@@ -47,26 +47,6 @@ I believe good software is built around a few simple principles:
 
 ---
 
-# Featured Work
-
-### 🌐 NetRock
-
-A premium engineering studio website focused on clean design, thoughtful interaction, and modern frontend development.
-
----
-
-### 🎨 Interactive Three.js Experiments
-
-Interactive web experiences exploring lighting, animation, and immersive user interfaces.
-
----
-
-### 🤖 AI Projects
-
-Personal projects focused on integrating modern AI tools into real software development workflows.
-
----
-
 <div align="center">
 
 > *"Growth lives outside your comfort zone. Always be tinkering."*
