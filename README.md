@@ -10,7 +10,7 @@ Building reliable software with a focus on maintainability, thoughtful architect
 
 <div align="center">
   <a href="https://netrock.hr"><img src="https://img.shields.io/badge/Website-013429?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/bkontrec"><img src="https://img.shields.io/badge/LinkedIn-013429?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/bkontrec"><img src="https://img.shields.io/badge/LinkedIn-013429?style=for-the-badge&logo=lospec&logoColor=white" /></a>
 </div>
 
 ---
