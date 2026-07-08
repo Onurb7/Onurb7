@@ -17,11 +17,11 @@ Building reliable software with a focus on maintainability, thoughtful architect
 
 # About
 
-I'm a full-stack software engineer with over **8 years of professional experience** designing and developing web applications, APIs, internal business systems, and production software.
+I'm a full-stack software engineer with over **8 years of professional experience** building production software across a range of domains, ERP and CRM platforms, internal B2B tooling, and high-traffic SaaS products with large active user bases. 
 
-Most of my experience comes from building software that businesses rely on every day, systems that need to remain stable, understandable, and maintainable as they evolve.
+Most of that work is under NDA and lives on private infrastructure, but it's what shaped how I think about reliability, data modelling, and building systems people actually depend on day to day. 
 
-Outside of client work, I enjoy building side projects to explore new technologies, particularly **AI**, **Three.js**, and modern frontend architecture.
+Alongside client work, I invest time in open source projects to explore technologies I'm geuninely curious about. The projects here reflect that, particularly modern full stack architecture with Next.js and TypeScript, which I've been deliberatly building depth in alongside my core PHP-Laravel-Vue background.
 
 ---
 
@@ -47,9 +47,7 @@ These projects represent different aspects of my engineering approach, from poli
 
 **Engineering studio website**
 
-A production website built for my own software engineering company, designed to demonstrate senior frontend development through thoughtful interaction design, accessibility, performance, and visual polish.
-
-Rather than functioning as a traditional landing page, the project showcases how engineering quality can be communicated through clean architecture, restrained motion, and a carefully designed user experience.
+A production website for a software engineering studio, built to the same standard as client work. The focus was measurable frontend quality over visual spectacle: a theme system with multiple accessibility profiles, semantic HTML throughout, and motion that degrades gracefully based on OS-level preferences. Lighthouse scores 99/100 Performance and 100/100 SEO in production, not as a goal, but as a byproduct of quality implementation.
 
 **Highlights**
 
@@ -81,9 +79,7 @@ Rather than functioning as a traditional landing page, the project showcases how
 
 **Multi-tenant SaaS platform**
 
-A production-style B2B SaaS application built to explore modern application architecture at scale. The platform supports subdomain-based multi-tenancy, real-time collaboration, tenant-scoped authorization, localized interfaces, and per-tenant branding while running from a single deployment.
-
-The goal wasn't simply to build features, but to design software the same way a commercial SaaS product would be engineered—from authentication and infrastructure to deployment strategy and architectural trade-offs.
+Built as a complete commercial SaaS product rather than a feature showcase. The architecture centres on subdomain-based multi-tenancy with middleware-level RBAC resolution on every request, no role baked into the session token. The Kanban board includes drag-and-drop with position persistence, task dependencies with BFS cycle-detection on add, and live board sync across all connected clients. The database layer targets Neon's HTTP adapter, which rejects implicit Prisma transactions, a constraint that required deliberate query patterns throughout, documented in full in the repository. The goal was to have an entire production stack costs nothing beyond the domain name.
 
 **Highlights**
 
