@@ -19,7 +19,7 @@ Building reliable software with a focus on maintainability, thoughtful architect
 
 I'm a full-stack software engineer with over **8 years of professional experience** designing and developing web applications, APIs, internal business systems, and production software.
 
-Most of my experience comes from building software that businesses rely on every day—systems that need to remain stable, understandable, and maintainable as they evolve.
+Most of my experience comes from building software that businesses rely on every day, systems that need to remain stable, understandable, and maintainable as they evolve.
 
 Outside of client work, I enjoy building side projects to explore new technologies, particularly **AI**, **Three.js**, and modern frontend architecture.
 
