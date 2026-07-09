@@ -32,8 +32,8 @@ I believe good software is built around a few simple principles:
 - Build for maintainability before cleverness.
 - Performance is a feature.
 - Keep systems understandable.
-- Solve real problems before adding features.
-- Learn continuously by building.
+- Solve real problems without feature bloat.
+- Never stop learning.
 
 ---
 
