@@ -17,7 +17,7 @@ Building reliable software with a focus on maintainability, thoughtful architect
 
 # About
 
-I'm a full-stack software engineer with over **8 years of professional experience** building production software across a range of domains, ERP and CRM platforms, internal B2B tooling, and high-traffic SaaS products with large active user bases. 
+Senior full-stack software engineer with **8+ years of professional experience** building production software across a range of domains, ERP and CRM platforms, internal B2B tooling, and high-traffic SaaS products with large active user bases. 
 
 Most of that work is under NDA and lives on private infrastructure, but it's what shaped how I think about reliability, data modelling, and building systems people depend on day to day. 
 
@@ -33,11 +33,20 @@ I believe good software is built around a few simple principles:
 - Performance is a feature.
 - Keep systems understandable.
 - Solve real problems without feature bloat.
-- Never stop learning.
 
 ---
 
-# Selected Projects
+# Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,ts,react,vue,nextjs,nodejs,docker,aws,mysql,postgres,git,github,vscode" />
+
+</p>
+
+---
+
+# Featured Engineering Work
 
 These projects represent different aspects of my engineering approach, from polished frontend experiences to production-oriented SaaS architecture. They are built as complete software products rather than isolated technical demos, with a strong emphasis on maintainability, scalability, and real-world engineering decisions.
 
@@ -47,7 +56,7 @@ These projects represent different aspects of my engineering approach, from poli
 
 **Engineering studio website**
 
-A production website for a software engineering studio, built to the same standard as client work. The focus was measurable frontend quality over visual spectacle: a theme system with multiple accessibility profiles, semantic HTML throughout, and motion that degrades gracefully based on OS-level preferences. Lighthouse scores 99/100 Performance and 100/100 SEO in production, not as a goal, but as a byproduct of quality implementation.
+A production website for a software engineering studio, developed using the same engineering standards applied to client-facing work. The focus was measurable frontend quality over visual spectacle: a theme system with multiple accessibility profiles, semantic HTML throughout, and motion that degrades gracefully based on OS-level preferences. Lighthouse scores 99/100 Performance and 100/100 SEO in production, not as a goal, but as a byproduct of quality implementation.
 
 **Highlights**
 
@@ -78,6 +87,8 @@ A production website for a software engineering studio, built to the same standa
 ## 🥔 SPUD
 
 **Multi-tenant SaaS platform**
+
+Production-oriented multi-tenant SaaS platform built to explore modern application architecture, tenant isolation and scalable full-stack design.
 
 Built as a complete commercial SaaS product rather than a feature showcase. The architecture centres on subdomain-based multi-tenancy with middleware-level RBAC resolution on every request, no role baked into the session token. The Kanban board includes drag-and-drop with position persistence, task dependencies with BFS cycle-detection on add, and live board sync across all connected clients. The database layer targets Neon's HTTP adapter, which rejects implicit Prisma transactions, a constraint that required deliberate query patterns throughout, documented in full in the repository. The goal was to have an entire production stack costs nothing beyond the domain name.
 
@@ -111,13 +122,6 @@ Built as a complete commercial SaaS product rather than a feature showcase. The 
 
 ---
 
-# Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,ts,react,vue,nextjs,nodejs,docker,aws,mysql,postgres,git,github,vscode" />
-
-</p>
 
 ---
 
