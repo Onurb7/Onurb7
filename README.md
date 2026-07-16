@@ -122,11 +122,8 @@ Built as a complete commercial SaaS product rather than a feature showcase. The 
 
 ---
 
-
----
-
 <div align="center">
 
-> *"Growth lives outside your comfort zone. Always be tinkering."*
+*"Growth lives outside your comfort zone. Always be tinkering."*
 
 </div>
