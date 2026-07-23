@@ -88,37 +88,6 @@ Rather than being another CRUD application, BellHop focuses on solving real oper
 
 🔗 **Repository:** https://github.com/Onurb7/BellHop
 
----
-
-## 🌐 NetRock
-
-**Engineering studio website**
-
-A production website for a software engineering studio, developed using the same engineering standards applied to client-facing work. The focus was measurable frontend quality over visual spectacle: a theme system with multiple accessibility profiles, semantic HTML throughout, and motion that degrades gracefully based on OS-level preferences. Lighthouse scores 99/100 Performance and 100/100 SEO in production, not as a goal, but as a byproduct of quality implementation.
-
-**Highlights**
-
-- Premium Apple-inspired design language
-- Accessibility-first implementation
-- Theme system with multiple accessibility profiles
-- Serverless contact form using Resend
-- SEO, Open Graph & performance optimized
-- Lighthouse: **99/100 Performance**, **100/100 SEO**
-
-**Tech Stack**
-
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-<img src="https://img.shields.io/badge/Framer_Motion-000000?style=flat-square&logo=framer&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
-</p>
-
-🔗 **Live:** https://netrock.hr
-
-🔗 **Repository:** https://github.com/Onurb7/netrock
 
 ---
 
@@ -157,6 +126,38 @@ Built as a complete commercial SaaS product rather than a feature showcase. The 
 🔗 **Live Demo:** https://spud-app.com
 
 🔗 **Repository:** https://github.com/Onurb7/spud
+
+---
+
+## 🌐 NetRock
+
+**Engineering studio website**
+
+A production website for a software engineering studio, developed using the same engineering standards applied to client-facing work. The focus was measurable frontend quality over visual spectacle: a theme system with multiple accessibility profiles, semantic HTML throughout, and motion that degrades gracefully based on OS-level preferences. Lighthouse scores 99/100 Performance and 100/100 SEO in production, not as a goal, but as a byproduct of quality implementation.
+
+**Highlights**
+
+- Premium Apple-inspired design language
+- Accessibility-first implementation
+- Theme system with multiple accessibility profiles
+- Serverless contact form using Resend
+- SEO, Open Graph & performance optimized
+- Lighthouse: **99/100 Performance**, **100/100 SEO**
+
+**Tech Stack**
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/Framer_Motion-000000?style=flat-square&logo=framer&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+</p>
+
+🔗 **Live:** https://netrock.hr
+
+🔗 **Repository:** https://github.com/Onurb7/netrock
 
 ---
 
