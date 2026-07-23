@@ -52,6 +52,44 @@ These projects represent different aspects of my engineering approach, from poli
 
 ---
 
+## 🛎️ BellHop
+
+**Production-grade hotel management platform**
+
+A complete hotel booking platform built to demonstrate senior Laravel engineering across the entire application lifecycle—from domain modelling and booking workflows to infrastructure, CI/CD, and production deployment.
+
+Rather than being another CRUD application, BellHop focuses on solving real operational problems found in hospitality systems while showcasing thoughtful software architecture, production-ready infrastructure, and long-term maintainability.
+
+**Highlights**
+
+- Complete booking lifecycle with automated scheduled workflows
+- Production CI/CD pipeline with GitHub Actions
+- Infrastructure as Code using Terraform
+- Docker-based local and production environments
+- PostgreSQL-first domain modelling with database-level integrity
+- Stripe payments, invoicing, queues and background processing
+- Role-based administration with guest self-service portal
+
+**Tech Stack**
+
+<p>
+<img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-8.4-777BB4?style=flat-square&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Vue-3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+</p>
+
+🔗 **Live Demo:** https://bellhop-app.com
+
+🔗 **Repository:** https://github.com/Onurb7/BellHop
+
+---
+
 ## 🌐 NetRock
 
 **Engineering studio website**
