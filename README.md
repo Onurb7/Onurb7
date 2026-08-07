@@ -48,7 +48,7 @@ I believe good software is built around a few simple principles:
 
 # Featured Engineering Work
 
-These projects represent different aspects of my engineering approach, from polished frontend experiences to production-oriented SaaS architecture. They are built as complete software products rather than isolated technical demos, with a strong emphasis on maintainability, scalability, and real-world engineering decisions.
+These projects represent different aspects of my engineering approach, from polished frontend experiences to production-oriented SaaS architecture. They are built as complete software products rather than isolated technical demos, with a strong emphasis on maintainability, scalability, performance, and real-world engineering decisions.
 
 ---
 
