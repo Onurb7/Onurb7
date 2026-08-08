@@ -29,7 +29,7 @@ Alongside client work, I invest time in open source projects to explore technolo
 
 I believe good software is built around a few simple principles:
 
-- Build for maintainability before cleverness.
+- Build for maintainability.
 - Performance is a feature.
 - Keep systems understandable.
 - Solve real problems without feature bloat.
