@@ -133,7 +133,7 @@ Built as a complete commercial SaaS product rather than a feature showcase. The 
 
 **Engineering studio website**
 
-A production website for a software engineering studio, developed using the same engineering standards applied to client-facing work. The focus was measurable frontend quality over visual spectacle: a theme system with multiple accessibility profiles, semantic HTML throughout, and motion that degrades gracefully based on OS-level preferences. Lighthouse scores 99/100 Performance and 100/100 SEO in production, not as a goal, but as a byproduct of quality implementation.
+A production website for a software engineering studio, developed using the same engineering standards applied to client-facing work. The focus was measurable frontend quality over visual spectacle: a theme system with multiple accessibility profiles, semantic HTML throughout, and motion that degrades gracefully based on OS-level preferences. Lighthouse scores 99/100 Performance and 100/100 SEO in production, not as a goal, but as a byproduct of quality planning and implementation.
 
 **Highlights**
 
