@@ -97,7 +97,7 @@ Rather than being another CRUD application, BellHop focuses on solving real oper
 
 Production-oriented multi-tenant SaaS platform built to explore modern application architecture, tenant isolation and scalable full-stack design.
 
-Built as a complete commercial SaaS product rather than a feature showcase. The architecture centres on subdomain-based multi-tenancy with middleware-level RBAC resolution on every request, no role baked into the session token. The Kanban board includes drag-and-drop with position persistence, task dependencies with BFS cycle-detection on add, and live board sync across all connected clients. The database layer targets Neon's HTTP adapter, which rejects implicit Prisma transactions, a constraint that required deliberate query patterns throughout, documented in full in the repository. The goal was to have an entire production stack costs nothing beyond the domain name.
+Built as a complete commercial SaaS product rather than a feature showcase. The architecture centres on subdomain-based multi-tenancy with middleware-level RBAC resolution on every request, no role baked into the session token. The Kanban board includes drag-and-drop with position persistence, task dependencies with BFS cycle-detection on add, and live board sync across all connected users of the same client. The database layer targets Neon's HTTP adapter, which rejects implicit Prisma transactions, a constraint that required deliberate query patterns throughout, documented in full in the repository. The goal was to have an entire production stack costs nothing beyond the domain name.
 
 **Highlights**
 
