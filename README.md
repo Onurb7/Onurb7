@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&duration=3000&pause=1000&color=013429&center=true&vCenter=true&width=435&lines=Senior+Full+Stack+Software+Engineer;Engineering+Digital+Products;From+Idea+to+Production;AI-Enhanced+Development;Forever+Curious)](https://git.io/typing-svg)
 
-Building reliable software with a focus on maintainability, thoughtful architecture, and long-term product quality.
+Building reliable software with a focus on simplicity, maintainability, thoughtful architecture, and long-term product quality.
 
 <br>
 
