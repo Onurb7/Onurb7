@@ -19,7 +19,7 @@ Building reliable software with a focus on simplicity, maintainability, thoughtf
 
 Senior full-stack software engineer with **8+ years of professional experience** building production software across a range of domains, ERP and CRM platforms, internal B2B tooling, and high-traffic SaaS products with large active user bases in hospitality, education and fintech industries. 
 
-Most of that work is under NDA and lives on private infrastructure, but the experience gathered through it is what shaped how I think about reliability, data modelling, and building systems people depend on day to day. 
+Most of my work is under NDA and lives on private infrastructure, but the experience gathered through those projects is what shaped how I think about reliability, data modelling, and building systems people depend on day to day. 
 
 Alongside client work, I invest time in open source projects to explore technologies I'm geuninely curious about. The projects here reflect that, particularly modern full stack architecture with Next.js and TypeScript, which I've been deliberatly building depth in alongside my core PHP-Laravel-Vue background.
 
